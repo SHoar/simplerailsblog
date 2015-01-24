@@ -8,6 +8,6 @@ This simple blog was created using the Getting Started tutorials  for Ruby on Ra
 * Database was created with sqlite3
 
 
+If you have comments or suggestions, please feel free to add them.
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Thank you.
